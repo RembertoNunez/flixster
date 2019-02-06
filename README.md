@@ -4,7 +4,6 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
 
 ---
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 ## Flix Part 2
 
@@ -46,4 +45,4 @@ One of the challenges I had was to be able to the click on the movie in the coll
 <img src="http://g.recordit.co/LkXfwBiaTK.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I did not have any challenges building this app
